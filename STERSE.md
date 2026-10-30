@@ -2,7 +2,7 @@
 
 Originalul complet: ../agency-agents-original.bundle (git clone din el).
 
-Total: 319 fișiere.
+Total: 314 fișiere.
 
 
 ## (rădăcină)
@@ -99,13 +99,6 @@ Total: 319 fișiere.
 - `engineering/engineering-wordpress-performance.md`
 - `engineering/engineering-wordpress-shopping-cart.md`
 
-## finance
-
-- `finance/finance-bookkeeper-controller.md`
-- `finance/finance-financial-analyst.md`
-- `finance/finance-fpa-analyst.md`
-- `finance/finance-investment-researcher.md`
-- `finance/finance-tax-strategist.md`
 
 ## game-development
 
