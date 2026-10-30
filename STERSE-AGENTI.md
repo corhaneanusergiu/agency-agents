@@ -1,6 +1,6 @@
 # Agenții șterși, cu explicații (2026-10-30)
 
-Rezumate în română ale descrierilor originale. ⭐ = candidat de luat în calcul pentru noi.
+Rezumate în română ale descrierilor originale. ⭐ = bifat de utilizator și readus la păstrat (2026-10-30, commitul următor lui fcb060c).
 Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 
 ## 1. academic
@@ -24,7 +24,7 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 
 ## 3. engineering
 
-3.1. `engineering-ai-data-remediation-engineer`: repară automat date stricate cu modele AI locale.
+3.1. ⭐ `engineering-ai-data-remediation-engineer`: repară automat date stricate cu modele AI locale.
 3.2. `engineering-api-platform-engineer`: API-uri publice (OpenAPI/gRPC), versiuni, limite.
 3.3. `engineering-ats-validator-architect`: sisteme de recrutare care citesc CV-uri.
 3.4. `engineering-autonomous-optimization-architect`: testează continuu API-uri cu limite de cost.
@@ -36,7 +36,7 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 3.10. `engineering-database-optimizer`: scheme, interogări, indexuri pentru baze de date.
 3.11. ⭐ `engineering-database-reliability-engineer`: replicare, failover, backup și restaurare baze de date.
 3.12. `engineering-desktop-app-engineer`: aplicații desktop Electron/Tauri.
-3.13. `engineering-developer-tooling-engineer`: unelte în linie de comandă, platforme interne.
+3.13. ⭐ `engineering-developer-tooling-engineer`: unelte în linie de comandă, platforme interne.
 3.14. ⭐ `engineering-devops-automator`: automatizare infrastructură, CI/CD, containere.
 3.15. `engineering-drupal-performance`: viteză site Drupal.
 3.16. `engineering-drupal-shopping-cart`: magazine online Drupal Commerce.
@@ -47,14 +47,14 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 3.21. `engineering-gaussdb-expert`: baza de date Huawei GaussDB.
 3.22. ⭐ `engineering-git-workflow-master`: fluxuri Git, ramuri, commituri convenționale.
 3.23. `engineering-i18n-engineer`: aplicații multilingve, formate locale.
-3.24. `engineering-identity-access-engineer`: OAuth/OIDC, SSO, passkeys.
+3.24. ⭐ `engineering-identity-access-engineer`: OAuth/OIDC, SSO, passkeys.
 3.25. `engineering-it-service-manager`: management servicii IT după ITIL 4.
 3.26. `engineering-knowledge-graph-engineer`: grafuri de cunoștințe (entități și relații).
 3.27. `engineering-llm-post-training-engineer`: antrenarea suplimentară a modelelor AI (RLHF).
 3.28. `engineering-mobile-release-engineer`: publicare aplicații iOS/Android în magazine.
-3.29. `engineering-multi-agent-systems-architect`: proiectarea sistemelor cu mai mulți agenți AI.
+3.29. ⭐ `engineering-multi-agent-systems-architect`: proiectarea sistemelor cu mai mulți agenți AI.
 3.30. `engineering-orgscript-engineer`: limbajul OrgScript pentru logică de business.
-3.31. `engineering-payments-billing-engineer`: plăți online (Stripe, PayPal), facturare.
+3.31. ⭐ `engineering-payments-billing-engineer`: plăți online (Stripe, PayPal), facturare.
 3.32. `engineering-pdf-engine-architect`: generare PDF din HTML la scară.
 3.33. `engineering-platform-engineer`: platforme interne pentru echipe de dezvoltare.
 3.34. `engineering-privacy-engineer`: protecția datelor personale în cod.
@@ -67,10 +67,10 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 3.41. `engineering-servicenow-developer-mentor`: dezvoltare pe platforma ServiceNow.
 3.42. ⭐ `engineering-software-architect`: arhitectură software, decizii tehnice.
 3.43. `engineering-solidity-smart-contract-engineer`: contracte inteligente blockchain.
-3.44. `engineering-universal-document-compiler`: compilare documente din orice format.
+3.44. ⭐ `engineering-universal-document-compiler`: compilare documente din orice format.
 3.45. `engineering-uswds-developer`: sistemul de design al guvernului SUA.
-3.46. `engineering-video-streaming-engineer`: streaming video HLS/DASH, ffmpeg.
-3.47. `engineering-voice-ai-integration-engineer`: transcriere vorbire (Whisper).
+3.46. ⭐ `engineering-video-streaming-engineer`: streaming video HLS/DASH, ffmpeg.
+3.47. ⭐ `engineering-voice-ai-integration-engineer`: transcriere vorbire (Whisper).
 3.48. `engineering-webassembly-engineer`: WebAssembly din Rust/C++/Go.
 3.49. `engineering-wechat-mini-program-developer`: mini-aplicații WeChat.
 3.50. `engineering-wordpress-performance`: viteză site WordPress.
@@ -100,7 +100,7 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 4.20. `unreal-technical-artist`: materiale și efecte în Unreal.
 4.21. `unreal-world-builder`: lumi deschise în Unreal Engine 5.
 
-## 5. gis (hărți și date geografice)
+## 5. ⭐ gis (hărți și date geografice)
 
 5.1. `gis-3d-scene-developer`: scene 3D web, modele de teren.
 5.2. `gis-analyst`: hărți, straturi, interogări spațiale zilnice.
@@ -184,9 +184,9 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 
 10.1. `project-management-experiment-tracker`: urmărirea experimentelor și a deciziilor pe date.
 10.2. `project-management-jira-workflow-steward`: Git legat de Jira, commituri trasabile.
-10.3. `project-management-project-shepherd`: coordonarea proiectelor între echipe.
-10.4. `project-management-studio-operations`: operațiuni zilnice într-un studio.
-10.5. `project-management-studio-producer`: conducerea proiectelor creative mari.
+10.3. ⭐ `project-management-project-shepherd`: coordonarea proiectelor între echipe.
+10.4. ⭐ `project-management-studio-operations`: operațiuni zilnice într-un studio.
+10.5. ⭐ `project-management-studio-producer`: conducerea proiectelor creative mari.
 
 ## 11. research
 
@@ -207,14 +207,14 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 ## 13. security
 
 13.1. ⭐ `security-ai-generated-code-auditor`: caută probleme în cod scris de AI (secrete hardcodate etc.).
-13.2. `security-appsec-engineer`: securitate în dezvoltarea aplicațiilor.
+13.2. ⭐ `security-appsec-engineer`: securitate în dezvoltarea aplicațiilor.
 13.3. `security-blockchain-security-auditor`: audit contracte blockchain.
-13.4. `security-cloud-security-architect`: securitate cloud, zero trust.
+13.4. ⭐ `security-cloud-security-architect`: securitate cloud, zero trust.
 13.5. `security-compliance-auditor`: audituri SOC 2, ISO 27001.
 13.6. ⭐ `security-incident-responder`: investigarea unei compromiteri, izolarea amenințării.
 13.7. ⭐ `security-penetration-tester`: teste de penetrare autorizate (pentru propria rețea).
 13.8. `security-threat-detection-engineer`: reguli SIEM, MITRE ATT&CK.
-13.9. `security-threat-intelligence-analyst`: urmărirea grupărilor de atacatori.
+13.9. ⭐ `security-threat-intelligence-analyst`: urmărirea grupărilor de atacatori.
 
 ## 14. spatial-computing (realitate virtuală/augmentată)
 
@@ -228,7 +228,7 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 ## 15. specialized
 
 15.1. `accounts-payable-agent`: plăți automate către furnizori.
-15.2. `agentic-identity-trust`: identitate și încredere între agenți AI.
+15.2. ⭐ `agentic-identity-trust`: identitate și încredere între agenți AI.
 15.3. ⭐ `agents-orchestrator`: coordonează un flux complet de dezvoltare cu mai mulți agenți.
 15.4. `business-strategist`: consultanță de management, strategie.
 15.5. `change-management-consultant`: gestionarea schimbărilor organizaționale.
@@ -282,7 +282,7 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 ## 16. support
 
 16.1. ⭐ `support-analytics-reporter`: transformă date brute în rapoarte și dashboarduri.
-16.2. `support-executive-summary-generator`: rezumate executive în stil de consultant.
+16.2. ⭐ `support-executive-summary-generator`: rezumate executive în stil de consultant.
 16.3. `support-legal-compliance-checker`: conformitate legală a operațiunilor și datelor.
 16.4. `support-support-responder`: suport pentru clienți.
 
@@ -292,9 +292,9 @@ Readucerea unui agent: `git checkout d495a59~1 -- <cale>`.
 17.2. ⭐ `testing-api-tester`: testarea API-urilor (de exemplu `unifi_api`, n8n).
 17.3. ⭐ `testing-performance-benchmarker`: măsurarea și îmbunătățirea performanței (Pi-ul are resurse mici).
 17.4. `testing-test-automation-engineer`: teste automate Playwright/Cypress.
-17.5. `testing-test-results-analyzer`: analiza rezultatelor testelor.
-17.6. `testing-tool-evaluator`: evaluarea și compararea uneltelor software.
-17.7. `testing-workflow-optimizer`: îmbunătățirea și automatizarea proceselor.
+17.5. ⭐ `testing-test-results-analyzer`: analiza rezultatelor testelor.
+17.6. ⭐ `testing-tool-evaluator`: evaluarea și compararea uneltelor software.
+17.7. ⭐ `testing-workflow-optimizer`: îmbunătățirea și automatizarea proceselor.
 
 ---
 Pe lângă agenți au fost șterse și: `scripts/`, `.github/`, integrările pentru alte programe decât Claude Code, `CONTRIBUTING*`, `divisions.json`, `tools.json` (lista exactă de fișiere: `STERSE.md`).

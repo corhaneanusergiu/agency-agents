@@ -2,7 +2,7 @@
 
 Originalul complet: ../agency-agents-original.bundle (git clone din el).
 
-Total: 313 fișiere.
+Total: 261 fișiere.
 
 
 ## (rădăcină)
@@ -40,26 +40,18 @@ Total: 313 fișiere.
 - `design/design-inclusive-visuals-specialist.md`
 - `design/design-persona-walkthrough.md`
 - `design/design-ui-finish-gate-reviewer.md`
-- `design/design-ux-researcher.md`
 - `design/design-visual-storyteller.md`
 - `design/design-whimsy-injector.md`
 
 ## engineering
 
-- `engineering/engineering-ai-data-remediation-engineer.md`
 - `engineering/engineering-api-platform-engineer.md`
 - `engineering/engineering-ats-validator-architect.md`
 - `engineering/engineering-autonomous-optimization-architect.md`
-- `engineering/engineering-backend-architect.md`
 - `engineering/engineering-china-network-engineer.md`
 - `engineering/engineering-cms-developer.md`
-- `engineering/engineering-codebase-onboarding-engineer.md`
-- `engineering/engineering-data-engineer.md`
 - `engineering/engineering-database-optimizer.md`
-- `engineering/engineering-database-reliability-engineer.md`
 - `engineering/engineering-desktop-app-engineer.md`
-- `engineering/engineering-developer-tooling-engineer.md`
-- `engineering/engineering-devops-automator.md`
 - `engineering/engineering-drupal-performance.md`
 - `engineering/engineering-drupal-shopping-cart.md`
 - `engineering/engineering-email-intelligence-engineer.md`
@@ -67,16 +59,12 @@ Total: 313 fișiere.
 - `engineering/engineering-filament-optimization-specialist.md`
 - `engineering/engineering-finops-engineer.md`
 - `engineering/engineering-gaussdb-expert.md`
-- `engineering/engineering-git-workflow-master.md`
 - `engineering/engineering-i18n-engineer.md`
-- `engineering/engineering-identity-access-engineer.md`
 - `engineering/engineering-it-service-manager.md`
 - `engineering/engineering-knowledge-graph-engineer.md`
 - `engineering/engineering-llm-post-training-engineer.md`
 - `engineering/engineering-mobile-release-engineer.md`
-- `engineering/engineering-multi-agent-systems-architect.md`
 - `engineering/engineering-orgscript-engineer.md`
-- `engineering/engineering-payments-billing-engineer.md`
 - `engineering/engineering-pdf-engine-architect.md`
 - `engineering/engineering-platform-engineer.md`
 - `engineering/engineering-privacy-engineer.md`
@@ -87,12 +75,8 @@ Total: 313 fișiere.
 - `engineering/engineering-section-508-specialist.md`
 - `engineering/engineering-senior-developer.md`
 - `engineering/engineering-servicenow-developer-mentor.md`
-- `engineering/engineering-software-architect.md`
 - `engineering/engineering-solidity-smart-contract-engineer.md`
-- `engineering/engineering-universal-document-compiler.md`
 - `engineering/engineering-uswds-developer.md`
-- `engineering/engineering-video-streaming-engineer.md`
-- `engineering/engineering-voice-ai-integration-engineer.md`
 - `engineering/engineering-webassembly-engineer.md`
 - `engineering/engineering-wechat-mini-program-developer.md`
 - `engineering/engineering-wordpress-performance.md`
@@ -123,21 +107,6 @@ Total: 313 fișiere.
 - `game-development/unreal-engine/unreal-technical-artist.md`
 - `game-development/unreal-engine/unreal-world-builder.md`
 
-## gis
-
-- `gis/gis-3d-scene-developer.md`
-- `gis/gis-analyst.md`
-- `gis/gis-bim-specialist.md`
-- `gis/gis-cartography-designer.md`
-- `gis/gis-drone-reality-mapping.md`
-- `gis/gis-geoai-ml-engineer.md`
-- `gis/gis-geoprocessing-specialist.md`
-- `gis/gis-qa-engineer.md`
-- `gis/gis-solution-engineer.md`
-- `gis/gis-spatial-data-engineer.md`
-- `gis/gis-spatial-data-scientist.md`
-- `gis/gis-technical-consultant.md`
-- `gis/gis-web-gis-developer.md`
 
 ## healthcare
 
@@ -228,13 +197,7 @@ Total: 313 fișiere.
 
 - `project-management/project-management-experiment-tracker.md`
 - `project-management/project-management-jira-workflow-steward.md`
-- `project-management/project-management-project-shepherd.md`
-- `project-management/project-management-studio-operations.md`
-- `project-management/project-management-studio-producer.md`
 
-## research
-
-- `research/research-synthesist.md`
 
 ## sales
 
@@ -292,15 +255,9 @@ Total: 313 fișiere.
 
 ## security
 
-- `security/security-ai-generated-code-auditor.md`
-- `security/security-appsec-engineer.md`
 - `security/security-blockchain-security-auditor.md`
-- `security/security-cloud-security-architect.md`
 - `security/security-compliance-auditor.md`
-- `security/security-incident-responder.md`
-- `security/security-penetration-tester.md`
 - `security/security-threat-detection-engineer.md`
-- `security/security-threat-intelligence-analyst.md`
 
 ## spatial-computing
 
@@ -314,8 +271,6 @@ Total: 313 fișiere.
 ## specialized
 
 - `specialized/accounts-payable-agent.md`
-- `specialized/agentic-identity-trust.md`
-- `specialized/agents-orchestrator.md`
 - `specialized/business-strategist.md`
 - `specialized/change-management-consultant.md`
 - `specialized/chief-financial-officer.md`
@@ -323,7 +278,6 @@ Total: 313 fișiere.
 - `specialized/customer-service.md`
 - `specialized/customer-success-manager.md`
 - `specialized/data-consolidation-agent.md`
-- `specialized/data-privacy-officer.md`
 - `specialized/esg-sustainability-officer.md`
 - `specialized/government-digital-presales-consultant.md`
 - `specialized/grant-writer.md`
@@ -351,33 +305,23 @@ Total: 313 fișiere.
 - `specialized/specialized-civil-engineer.md`
 - `specialized/specialized-cultural-intelligence-strategist.md`
 - `specialized/specialized-developer-advocate.md`
-- `specialized/specialized-document-generator.md`
 - `specialized/specialized-fedramp-rmf-compliance.md`
 - `specialized/specialized-focus-music-architect.md`
 - `specialized/specialized-french-consulting-market.md`
 - `specialized/specialized-korean-business-navigator.md`
-- `specialized/specialized-master-plan-architect.md`
 - `specialized/specialized-model-qa.md`
 - `specialized/specialized-pricing-analyst.md`
 - `specialized/specialized-salesforce-architect.md`
 - `specialized/specialized-strategy-duel-agent.md`
 - `specialized/study-abroad-advisor.md`
 - `specialized/supply-chain-strategist.md`
-- `specialized/zk-steward.md`
 
 ## support
 
-- `support/support-analytics-reporter.md`
-- `support/support-executive-summary-generator.md`
 - `support/support-legal-compliance-checker.md`
 - `support/support-support-responder.md`
 
 ## testing
 
 - `testing/testing-accessibility-auditor.md`
-- `testing/testing-api-tester.md`
-- `testing/testing-performance-benchmarker.md`
 - `testing/testing-test-automation-engineer.md`
-- `testing/testing-test-results-analyzer.md`
-- `testing/testing-tool-evaluator.md`
-- `testing/testing-workflow-optimizer.md`
