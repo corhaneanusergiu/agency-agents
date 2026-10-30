@@ -2,7 +2,7 @@
 
 Originalul complet: ../agency-agents-original.bundle (git clone din el).
 
-Total: 314 fișiere.
+Total: 313 fișiere.
 
 
 ## (rădăcină)
@@ -32,7 +32,6 @@ Total: 314 fișiere.
 - `academic/academic-historian.md`
 - `academic/academic-narratologist.md`
 - `academic/academic-psychologist.md`
-- `academic/academic-statistician.md`
 
 ## design
 
